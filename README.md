@@ -1,4 +1,9 @@
 # python-intern-projects!
-Python calculator GUI
-[image](https://user-images.githubusercontent.com/92113971/222213658-49764acc-c81a-492e-a717-1e9526344de3.png)
+1. Random password generator
+![pass_generator](https://user-images.githubusercontent.com/92113971/222216984-ab3a8895-a89c-4727-836e-a111a46e6f30.png)
+
+2. Python calculator gui
+![calc](https://user-images.githubusercontent.com/92113971/222216604-9cfff374-1db3-4eab-95b0-443219eb4cc1.png)
+
+
 
